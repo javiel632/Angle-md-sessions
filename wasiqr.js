@@ -65,9 +65,9 @@ router.get('/', async (req, res) => {
 > 𝐃𝐄𝐕 𝐉𝐀𝐕𝐈𝐄𝐋
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-𝐏𝐎𝐏𝐊𝐈𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+𝐉𝐀𝐕𝐈𝐄𝐋 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐏𝐀𝐆𝐄 = https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26
+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 = https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 𝐕𝐈𝐀
 𝐌𝐘 𝐋𝐈𝐍𝐊?https://wa.me/254112167030?
